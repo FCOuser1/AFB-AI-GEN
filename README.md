@@ -14,6 +14,7 @@ Project Structure:
 	• ui/app.py: Optional Streamlit dashboard for interactive generation
 	• file_loader.py: Reads .docx, .pdf, or plain text input
 	• test_*: Unit tests for pipeline modules
+![ChatGPT Image Jun 3, 2025, 12_54_37 PM](https://github.com/user-attachments/assets/72bd319a-4e2a-4324-b474-7b2cbdc92aac)
 	
 
 How to Use:
